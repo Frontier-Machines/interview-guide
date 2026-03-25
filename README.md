@@ -15,7 +15,7 @@ Make sure you see two arms moving around like crazy and some squares bouncing ar
 
 **Step 2.** Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or your favorite coding assistant to help you with this interview.
 
-**Step 3.** Sign up for [SmallCAD](https://smallcad.com/) and practice making a sketch with a circle and square inside the circle, then extrude circle - square. Then make a sketch on top of the extrude and extrude again. Be comfortable with basic shapes in sketches and extruding them.
+**Step 3.** Sign up for [SmallCAD](https://smallcad.com/) and practice the basics: create a sketch with a square inside a circle, extrude the difference, then add a new sketch on top of the extruded face and extrude again. Get comfortable with sketches and extrusions.
 
 **Step 4.** Spend a little time brushing up on robotics concepts.
 - Understand fundamentals, not definitions: Be able to explain how things work step-by-step (e.g., what actually happens during a ping, DNS lookup, or control loop).
@@ -28,3 +28,5 @@ Make sure you see two arms moving around like crazy and some squares bouncing ar
 - Know why things exist: Not just what PWM or a gearbox is, but why engineers use them.
 - Expect practical reasoning: Questions often test judgment in messy real-world scenarios, not textbook answers.
 - Stay honest and think out loud: Interviewers care more about your reasoning process than perfect answers.
+
+**Step 5.** Watch [this video](https://www.youtube.com/watch?v=L3rLT84qqLk) and consider whether you're willing to spend many hours practicing teleoperation across different tasks until you can perform them reliably.
