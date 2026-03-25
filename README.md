@@ -15,7 +15,7 @@ Make sure you see two arms moving around like crazy and some squares bouncing ar
 
 **Step 2.** Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or your favorite coding assistant to help you with this interview.
 
-**Step 3.** Sign up for a free [Onshape](https://www.onshape.com/en/pricing) plan and practice making a sketch with a circle and square inside the circle, then extrude circle - square. Be comfortable with basic shapes in sketches and extruding them.
+**Step 3.** Sign up for [SmallCAD](https://smallcad.com/) and practice making a sketch with a circle and square inside the circle, then extrude circle - square. Then make a sketch on top of the extrude and extrude again. Be comfortable with basic shapes in sketches and extruding them.
 
 **Step 4.** Spend a little time brushing up on robotics concepts.
 - Understand fundamentals, not definitions: Be able to explain how things work step-by-step (e.g., what actually happens during a ping, DNS lookup, or control loop).
