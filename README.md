@@ -1,6 +1,22 @@
 # interview-guide
 
+## The Process
+
+1. 1 hour Google Meet interview.
+2. 30 minute Google Meet interview.
+3. Roughly half day onsite interview at Frontier Machines headquarters in Mountain View.
+
+## The Interview
+
+The Google Meet interview is about 1 hour and covers three parts:
+
+1. Debugging some code together via Google Meet on your laptop with your AI agent/coding assistant of choice.
+2. I'll show you some products and we'll figure out together how we'd get a robot to pack them autonomously. We may do some basic CAD as part of this.
+3. Q&A around basic robotics concepts.
+
 ## Getting Started
+
+This will help you prep for the interview.
 
 **Step 0.** Install [git](https://git-scm.com/) and clone the repo:
 ```
